@@ -3,5 +3,5 @@
 
 系统要求：Windows Vista及以上
 
-近期计划:
+近期计划:\
 ![Cyralive（谢拉桌宠）里程碑计划1](./CyralivePlan.png)
